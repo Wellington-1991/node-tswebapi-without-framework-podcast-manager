@@ -49,7 +49,7 @@ Retorna todos os episódios disponíveis.
 
 **Exemplo:**
 ```bash
-GET /episodes
+GET api/episodes
 ```
 ---
 ## 🚀 Como Rodar o Projeto

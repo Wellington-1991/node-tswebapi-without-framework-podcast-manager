@@ -21,5 +21,5 @@ const server = http.createServer(
 const port = process.env.PORT;
 
 server.listen(port,()=>{
-    console.log(`Servidor inicido na porta ${port}!`)
+    console.log(`Servidor iniciado na porta ${port}!`)
 })
